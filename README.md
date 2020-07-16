@@ -1,3 +1,5 @@
+<link rel="icon"href="favicon.ico">
+
 <link>
 file:///C:/Users/cust/Documents/Certifications/We%20can%20do%20better%20EMBA%20Smartly.pdf
 </link>
